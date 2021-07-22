@@ -1,4 +1,4 @@
-# Bookshop_Substrate_POC
+# Bookshop
 The project Bookshop is developed in the substrate that helps to keep track of all the book records and customer details.
 
 ## Installation
