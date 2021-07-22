@@ -5,7 +5,7 @@ The project Bookshop is developed in the substrate that helps to keep track of a
 You will need to do some setup to prepare your system for substrate development. Simply go to [substrate.dev](https://substrate.dev/) and follow the installation instruction.
 
 ## Add a Pallet
-This project contains two pallets, a store pallet to maintain book details such as Book ISBN no, Book name, Book author name, Book price and a customer pallet to maintain customer details such as customer ID, customer name, costomer contact no, book name which is customer wants to buy, book author name, number of copies and book price.
+This project contains two pallets, a store pallet to maintain book details such as Book ISBN no, Book name, Book author name, Book price and a customer pallet to maintain customer details such as Customer ID, Customer name, Customer contact no, Book name which is customer wants to buy, Book author name, Number of copies and Book price.
 
 ## Run Locally
 To add your pallet, Substrate-Node-Template/pallets
