@@ -10,7 +10,7 @@ This project contains two pallets, a store pallet to maintain book details and a
 ## Run Locally
 To add your pallet, Substrate-Node-Template/pallets
 
-#### Clone the project
+#### Clone the pallet
 
  > git clone -b v3.0.0 --depth 1 https://github.com/substrate-developer-hub/substrate-pallet-template store-pallet
   
